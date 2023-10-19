@@ -13,7 +13,7 @@ django-countries==7.5
 django-crispy-forms==1.14.0
 django-dotenv==1.4.0
 django-localflavor==4.0
-django-phonenumbers==1.0.1
+django-phonenumber-field==6.0.0
 django-storages==1.13.2
 idna==3.4
 jmespath==1.0.1
